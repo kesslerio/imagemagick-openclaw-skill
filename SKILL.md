@@ -1,3 +1,8 @@
+---
+name: imagemagick
+description: Image processing via ImageMagick: resize, crop, convert formats, compress, apply filters, batch operations, create thumbnails and GIFs. Use when: 'resize image', 'convert to PNG', 'crop photo', 'compress image', 'ImageMagick', 'batch process images', 'create thumbnail'. NOT for PDF manipulation (use pymupdf-pdf or mineru-pdf).
+---
+
 # ImageMagick OpenClaw Skill
 
 Comprehensive ImageMagick operations for image manipulation in OpenClaw.
